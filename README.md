@@ -11,7 +11,7 @@ The findings and conclusions of this project have implications for diverse field
 aims to close the gap between a real-world social phenomena and its mathematical model .
 <br>
 <br> 
-Contributions :
+<b><underline>Contributions :</b></underline>
 <br>
 <b>Jevik Rakholiya -  </b>
 <br>
