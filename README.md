@@ -12,6 +12,7 @@ aims to close the gap between a real-world social phenomena and its mathematical
 <br>
 <br> 
 <b><underline>Contributions :</b></underline>
+  <br>
 <br>
 Jevik Rakholiya -  
 <br>
