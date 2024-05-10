@@ -1,6 +1,6 @@
 <b><center>When will Everyone Know</center></b>
 <br>
-Our Calculus Project delves into the study of how rumors spread within a stable population
+<center>Our Calculus Project delves into the study of how rumors spread within a stable population</center>
 group. To accomplish this we are using mathematical modeling to represent the spread
 of information. The model aims to improve understanding on how to track the spread of
 rumors and further on how to control it. The factors influencing the spread of rumors will
