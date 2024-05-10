@@ -13,16 +13,16 @@ aims to close the gap between a real-world social phenomena and its mathematical
 <br> 
 <b><underline>Contributions :</b></underline>
 <br>
-<b>Jevik Rakholiya -  </b>
+Jevik Rakholiya -  
 <br>
-<b>Mudit Rungta -  </b>
+Mudit Rungta -  
 <br>
-<b>Harita Rathod -  </b>
+Harita Rathod -  
 <br>
-<b>Priyanshi Gothi -  </b>
+Priyanshi Gothi -  
 <br>
-<b>Akshada Modak - Worked on developing and understanding Differential Equations of the project. </b>
+Akshada Modak - Worked on developing and understanding Differential Equations of the project. 
 <br>
-<b>Maanav Gurubaxani -  </b>
+Maanav Gurubaxani -  
 <br>
 
