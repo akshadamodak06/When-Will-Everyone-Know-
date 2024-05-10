@@ -9,6 +9,7 @@ The project will incorporate graph theory and differential equations to model in
 within a stable population.
 The findings and conclusions of this project have implications for diverse fields, the project
 aims to close the gap between a real-world social phenomena and its mathematical model .
+<br>
 <br> 
 Contributions :
 <br>
