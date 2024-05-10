@@ -10,3 +10,18 @@ within a stable population.
 The findings and conclusions of this project have implications for diverse fields, the project
 aims to close the gap between a real-world social phenomena and its mathematical model .
 <br> 
+Contributions :
+<br>
+<b>Jevik Rakholiya -  </b>
+<br>
+<b>Mudit Rungta -  </b>
+<br>
+<b>Harita Rathod -  </b>
+<br>
+<b>Priyanshi Gothi -  </b>
+<br>
+<b>Akshada Modak - Worked on developing and understanding Differential Equations of the project. </b>
+<br>
+<b>Maanav Gurubaxani -  </b>
+<br>
+
