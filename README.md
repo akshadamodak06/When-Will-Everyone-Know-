@@ -24,6 +24,6 @@ Priyanshi Gothi -
 <br>
 Akshada Modak - Worked on developing and understanding Differential Equations of the project. 
 <br>
-Maanav Gurubaxani - Worked on developing and understanding Differential Equations of the project. 
+Maanav Gurubaxani - Worked on developing and understanding Differential Equations of the project and the most important aspect I learned during this project is how to manage work in a team and also I learned the basics of latex from my teammate Priyanshi Gothi
 <br>
 
