@@ -24,6 +24,6 @@ Priyanshi Gothi -
 <br>
 Akshada Modak - Worked on developing and understanding Differential Equations of the project. 
 <br>
-Maanav Gurubaxani -  
+Maanav Gurubaxani - Worked on developing and understanding Differential Equations of the project. 
 <br>
 
